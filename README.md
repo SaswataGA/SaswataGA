@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaswataGA
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C & Java Programming.
+- 🌱 I’m currently learning C & Java & SQL Programming.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me - saswataghosal24@gmail.com
 
