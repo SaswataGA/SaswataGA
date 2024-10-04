@@ -65,11 +65,5 @@
 
 ---
 
-<h3 align="left" style="color: #8A2BE2;">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saswataga&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 <h3 align="center" style="color: #FF69B4;">Thank you for stopping by! 🚀</h3>
