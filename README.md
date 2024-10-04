@@ -4,10 +4,10 @@
 <h3 align="center" style="color: #6A5ACD;">I'm a Passionate Coder from <span style="color:#F0C419;">BANGLADESH</span></h3>
 
 <p align="center">
-  <img alt="coding" width="400" src="https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🎓+BSc+in+CSE+Student+at+UAP;💻+1.5+Years+of+Coding+Experience;🚀+Skilled+in+C%2C+C%2B%2B%2C+Java%2C+Python%2C+PostgreSQL;🌱+Aspiring+Software+Engineer&font=Fira%20Code&center=true&width=850&height=50&color=00f7ff&vCenter=true&pause=1000&size=28&duration=3000" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=saswataga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -17,8 +17,12 @@
 - **Data Structures and Algorithms II**: Diving deeper into complex algorithms and optimizing data storage solutions.
 - **Database Systems**: Understanding the intricacies of relational databases and SQL.
 
+---
+
 ### 👨‍💻 Explore My Work:
 - Check out my projects on [GitHub](https://github.com/SaswataGA) to see what I've been working on and contributing to!
+
+---
 
 ### ⚡ Fun Fact:
 **I Am Always Angry!** 😅 (But only while debugging—it's a coder's curse!)
@@ -64,7 +68,6 @@
 <h3 align="left" style="color: #8A2BE2;">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saswataga&theme=radical" alt="GitHub Streak" />
-  <br>
 </p>
 
 ---
