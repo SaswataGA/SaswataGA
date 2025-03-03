@@ -4,7 +4,7 @@
 <h3 align="center" style="color: #6A5ACD;">I'm a Passionate Coder from <span style="color:#F0C419;">BANGLADESH</span></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🎓+BSc+in+CSE+Student+at+UAP;💻+1.5+Years+of+Coding+Experience;🚀+Skilled+in+C%2C+C%2B%2B%2C+Java%2C+Python%2C+PostgreSQL;🌱+Aspiring+Software+Engineer&font=Fira%20Code&center=true&width=850&height=50&color=00f7ff&vCenter=true&pause=1000&size=28&duration=3000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=🎓+BSc+in+CSE+Student+at+UAP;💻+2+Years+of+Coding+Experience;🚀+Skilled+in+C%2C+C%2B%2B%2C+Java%2C+Python%2C+PostgreSQL;🌱+Aspiring+Software+Engineer&font=Fira%20Code&center=true&width=850&height=50&color=00f7ff&vCenter=true&pause=1000&size=28&duration=3000" />
 </p>
 
 <p align="center">
@@ -14,8 +14,7 @@
 ---
 
 ### 🌱 Currently Learning:
-- **Data Structures and Algorithms II**: Diving deeper into complex algorithms and optimizing data storage solutions.
-- **Database Systems**: Understanding the intricacies of relational databases and SQL.
+- **OOP II Python
 
 ---
 
