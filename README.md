@@ -1,4 +1,4 @@
-![logo](https://github.com/SaswataGA/SaswataGA/blob/main/github-header-image.png)
+
 
 <h1 align="center" style="color: #4B0082;">👋 Welcome to My Coding Corner!</h1>
 <h3 align="center" style="color: #6A5ACD;">I'm a Passionate Coder from <span style="color:#F0C419;">BANGLADESH</span></h3>
