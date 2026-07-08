@@ -14,7 +14,7 @@
 ---
 
 ### 🌱 Currently Learning:
-- **OOP II Python
+- **AI Engineer Agentic Track: The Complete Agent & MCP Course from UDEMY
 
 ---
 
