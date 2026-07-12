@@ -20,7 +20,7 @@ I'm a final-year **B.Sc. in Computer Science and Engineering** student at the **
 
 Outside coursework, I build full-stack, database-backed, and CLI applications end-to-end — from schema design to deployment — and I actively solve algorithmic problems across Codeforces, CodeChef, HackerEarth, and Beecrowd.
 
-- 🎓 B.Sc. CSE, University of Asia Pacific — CGPA **3.66 / 4.00** (Expected: End of 2026)
+- 🎓 B.Sc. CSE, University of Asia Pacific 
 - 🔬 Senior Thesis: Federated Multi-modal Deep Learning for Skin Disease Classification
 - 🏆 90+ competitive programming problems solved · CodeChef **Problem Solver (Bronze)**
 - 📂 70+ public repositories spanning ML research, full-stack apps, and database systems
