@@ -22,8 +22,8 @@ Outside coursework, I build full-stack, database-backed, and CLI applications en
 
 - 🎓 B.Sc. CSE, University of Asia Pacific 
 - 🔬 Senior Thesis: Federated Multi-modal Deep Learning for Skin Disease Classification
-- 🏆 90+ competitive programming problems solved · CodeChef **Problem Solver (Bronze)**
-- 📂 70+ public repositories spanning ML research, full-stack apps, and database systems
+- 🏆 70+ competitive programming problems solved · CodeChef **Problem Solver (Bronze)**
+- 📂 95+ public repositories spanning ML research, full-stack apps, and database systems
 - 🌱 Currently completing: **The Complete Agentic AI Engineering Course** (Udemy)
 
 <br/>
